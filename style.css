@@ -1,0 +1,39 @@
+.users
+{
+    max-width: 250px;
+    display: block;
+    border: solid 2px;
+    margin: 10px;
+    background-color: rgb(43, 51, 100);
+    color: rgb(184, 182, 182);
+}
+
+.users:hover
+{
+    background-color: rgb(167, 159, 159);
+    
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(40, 31, 124);
+}
+#space
+{
+    margin-left: 20px;
+}
+input
+{
+    width: 250px;
+    height: 40px;
+    margin: 30px;
+    margin-bottom: 10px;
+    background-color: rgb(55, 55, 119)
+
+}
+input:focus
+{
+    background-color: white;
+}
